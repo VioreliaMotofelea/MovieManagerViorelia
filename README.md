@@ -22,7 +22,3 @@ This C++ desktop application allows users to manage a movie collection through a
 - 🧩 Modular architecture using **OOP principles**
 - 💬 Dynamic UI that responds to user interaction
 - 📈 Visual data representation using **Qt widgets**
-
----
-
-## 📂 Folder Structure
